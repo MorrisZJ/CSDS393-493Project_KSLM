@@ -5,7 +5,7 @@ facilitate the process of students accessing KSL's rwesources and services. The 
 and ording the snacks and coffee, etc.
 
 ## Directories Contents
-After development tool specifics is comfirmed and software development is begin, the contents is added.
+After development tool specifics is comfirmed and software development is begin, the content will be added.
 
 ## Responsiblities
 
