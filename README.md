@@ -9,4 +9,4 @@ After development tool specifics is comfirmed and software development is begin,
 
 ## Responsiblities
 
-**Contributor**: Jiamu Zhang, Jin Wang, Ruihan Quan, Yiheng Tao, Gengyu Liu
+**Contributor**: Jiamu Zhang, Jing Wang, Ruihan Quan, Yiheng Tao, Gengyu Liu
